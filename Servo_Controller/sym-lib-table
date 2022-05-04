@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "Rocket-Scientist")(type "KiCad")(uri "${KIPRJMOD}/Libraries/Symbols/Rocket-Scientist.kicad_sym")(options "")(descr "Symbols used in projects from www.rocket-scientist.me"))
+)

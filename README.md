@@ -1,4 +1,4 @@
-# Easy EVTOL Servo
+# Configurable EVTOL Servo - Hardware
 
 Open source servo motor brain, mainly intended for EVTOL aircraft research and development.
 - Built from vastly available cheap electronic components
