@@ -1,0 +1,6 @@
+Silkscreen top:			#FAFAFAFF
+Silkscreen botom:		#FAFAFAFF
+Solder mask top:		#780000D4
+Solder mask bottom:		#780000D4
+Copper surface finish:	#E1CC3DFF
+Board body:				#332B17E6

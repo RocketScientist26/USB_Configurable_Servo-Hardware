@@ -2216,7 +2216,7 @@
   (gr_line (start 239 212) (end 239 192.25) (layer "Edge.Cuts") (width 0.1) (tstamp dceda993-2d96-42d6-95d0-ab434e370982))
   (gr_line (start 304.25 191.75) (end 239.5 191.75) (layer "Edge.Cuts") (width 0.1) (tstamp e10330a1-65d3-4344-9b82-3f33ec09b030))
   (gr_arc (start 239.5 212.5) (mid 239.146447 212.353553) (end 239 212) (layer "Edge.Cuts") (width 0.1) (tstamp ef9aee3e-5697-4e31-b5a3-546526e4b01d))
-  (gr_text "Servo controller - Variant {dblquote}A{dblquote}" (at 278.3 208.25) (layer "B.SilkS") (tstamp 464d17dd-1624-42d5-ae03-870421806fc6)
+  (gr_text "Servo controller" (at 281.5 209.25) (layer "B.SilkS") (tstamp 464d17dd-1624-42d5-ae03-870421806fc6)
     (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
   )
   (gr_text "S" (at 303.72818 203) (layer "F.SilkS") (tstamp 00e07398-3e9c-4696-b52f-16b1fa8964a9)
