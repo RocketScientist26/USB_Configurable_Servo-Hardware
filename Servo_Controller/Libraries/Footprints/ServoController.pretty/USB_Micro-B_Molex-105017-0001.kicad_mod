@@ -4,12 +4,12 @@
   (descr "http://www.molex.com/pdm_docs/sd/1050170001_sd.pdf")
   (tags "Micro-USB SMD Typ-B")
   (attr smd)
-  (fp_text reference "REF**" (at 0 -3.1125) (layer "F.SilkS") hide
-    (effects (font (size 1 1) (thickness 0.15)))
+  (fp_text reference "REF**" (at 0 -2.5) (layer "F.Fab")
+    (effects (font (size 0.5 0.5) (thickness 0.125)))
     (tstamp 711d27c5-efee-45ca-9b31-41d211608a1f)
   )
-  (fp_text value "USB_Micro-B_Molex-105017-0001" (at 0.3 4.3375) (layer "F.Fab") hide
-    (effects (font (size 1 1) (thickness 0.15)))
+  (fp_text value "USB_Micro-B_Molex-105017-0001" (at 0 4) (layer "Eco1.User")
+    (effects (font (size 0.5 0.5) (thickness 0.125)))
     (tstamp 5c63621d-ec4d-4786-b82a-0c343c64d5c6)
   )
   (fp_line (start 3.9 0.0875) (end 3.9 -1.7625) (layer "F.SilkS") (width 0.25) (tstamp 2ab1da8a-68d2-40e9-8a33-1f010dbda14b))

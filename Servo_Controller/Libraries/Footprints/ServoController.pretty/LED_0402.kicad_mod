@@ -2,12 +2,12 @@
   (layer "F.Cu")
   (tedit 61DEFCDC)
   (attr smd)
-  (fp_text reference "REF**" (at 0 -1.17) (layer "F.SilkS") hide
-    (effects (font (size 1 1) (thickness 0.15)))
+  (fp_text reference "REF**" (at 0 1) (layer "F.Fab")
+    (effects (font (size 0.5 0.5) (thickness 0.125)))
     (tstamp 7fd42837-f5c5-4745-aa29-c722e6e8c542)
   )
-  (fp_text value "LED_0402" (at 0 1.17) (layer "F.Fab") hide
-    (effects (font (size 1 1) (thickness 0.15)))
+  (fp_text value "LED_0402" (at 0 -1) (layer "Eco1.User")
+    (effects (font (size 0.5 0.5) (thickness 0.125)))
     (tstamp ef0a2071-6555-49e0-bc78-da38debe66e0)
   )
   (fp_circle (center -1.09 0) (end -1.04 0) (layer "F.SilkS") (width 0.1) (fill none) (tstamp 4155505f-3687-467b-8149-9afc3d422f5e))

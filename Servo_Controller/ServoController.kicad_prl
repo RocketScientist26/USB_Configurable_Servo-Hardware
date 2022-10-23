@@ -1,7 +1,7 @@
 {
   "board": {
-    "active_layer": 36,
-    "active_layer_preset": "All Layers",
+    "active_layer": 42,
+    "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_nets": [],
     "high_contrast_mode": 0,
@@ -9,7 +9,7 @@
     "opacity": {
       "pads": 1.0,
       "tracks": 1.0,
-      "vias": 1.0,
+      "vias": 0.0,
       "zones": 0.6
     },
     "ratsnest_display_mode": 0,
@@ -33,17 +33,12 @@
       3,
       4,
       5,
-      8,
       9,
       10,
-      11,
-      12,
       13,
-      14,
       15,
       16,
       17,
-      18,
       19,
       20,
       21,
@@ -62,8 +57,8 @@
       35,
       36
     ],
-    "visible_layers": "fffffff_ffffffff",
-    "zone_display_mode": 0
+    "visible_layers": "fff7eef_7ffffffe",
+    "zone_display_mode": 1
   },
   "meta": {
     "filename": "ServoController.kicad_prl",

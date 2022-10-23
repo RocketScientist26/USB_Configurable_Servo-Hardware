@@ -2,12 +2,12 @@
   (layer "F.Cu")
   (tedit 61DEFC70)
   (attr smd)
-  (fp_text reference "REF**" (at 0 -1.16) (layer "F.SilkS") hide
-    (effects (font (size 1 1) (thickness 0.15)))
+  (fp_text reference "REF**" (at 0 1) (layer "F.Fab")
+    (effects (font (size 0.5 0.5) (thickness 0.125)))
     (tstamp 3e5b385e-4a64-4053-880e-e0031299a98c)
   )
-  (fp_text value "C_0402" (at 0 1.16) (layer "F.Fab") hide
-    (effects (font (size 1 1) (thickness 0.15)))
+  (fp_text value "C_0402" (at 0 -1) (layer "Eco1.User")
+    (effects (font (size 0.5 0.5) (thickness 0.125)))
     (tstamp 30d408b7-6af3-4a56-9ac7-f437419bd0d5)
   )
   (fp_line (start -0.107836 0.36) (end 0.107836 0.36) (layer "F.SilkS") (width 0.12) (tstamp c0650eb2-979b-4bda-ab40-56676fbfe3b8))

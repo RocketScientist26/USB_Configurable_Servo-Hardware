@@ -4,12 +4,12 @@
   (descr "module CMS SOT223 4 pins")
   (tags "CMS SOT")
   (attr smd)
-  (fp_text reference "REF**" (at 0 -0.75) (layer "F.SilkS") hide
-    (effects (font (size 0.6 0.6) (thickness 0.15)))
+  (fp_text reference "REF**" (at 0 -0.75) (layer "F.Fab")
+    (effects (font (size 0.5 0.5) (thickness 0.125)))
     (tstamp 3423b69d-31f4-49a7-a31b-7a75e0771985)
   )
-  (fp_text value "SOT-223" (at 0 0.762) (layer "F.Fab") hide
-    (effects (font (size 0.6 0.6) (thickness 0.15)))
+  (fp_text value "SOT-223" (at 0 0.5) (layer "Eco1.User")
+    (effects (font (size 0.5 0.5) (thickness 0.125)))
     (tstamp 7a371838-7673-4e2a-955b-9b6e37993916)
   )
   (fp_line (start -3.355 1.855) (end -3.355 -1.855) (layer "F.SilkS") (width 0.25) (tstamp 171c1fd8-6971-4d47-b8f9-2bbc280a7f74))

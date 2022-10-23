@@ -2,12 +2,12 @@
   (layer "F.Cu")
   (tedit 61DEFD6A)
   (attr through_hole)
-  (fp_text reference "**REF" (at 3.5 -2.15) (layer "F.SilkS") hide
-    (effects (font (size 1 1) (thickness 0.15)))
+  (fp_text reference "REF**" (at 0 -2) (layer "F.Fab")
+    (effects (font (size 0.5 0.5) (thickness 0.125)))
     (tstamp 62faf466-a5e1-4997-954a-e3f3f47e0a99)
   )
-  (fp_text value "*VAL" (at 0 2.54) (layer "F.Fab") hide
-    (effects (font (size 1 1) (thickness 0.15)))
+  (fp_text value "*VAL" (at 0 2) (layer "Eco1.User") hide
+    (effects (font (size 0.5 0.5) (thickness 0.125)))
     (tstamp 7afec855-ed33-4dd1-8a74-3d2203c81740)
   )
   (fp_line (start 10.16 -1.27) (end 10.16 1.27) (layer "F.SilkS") (width 0.25) (tstamp 206ace7c-6dae-4c64-b30f-758119e57387))

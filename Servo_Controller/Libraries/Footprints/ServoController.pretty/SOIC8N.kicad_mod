@@ -2,12 +2,12 @@
   (layer "F.Cu")
   (tedit 61DEFD55)
   (attr through_hole)
-  (fp_text reference "REF**" (at 0 0.5) (layer "F.SilkS") hide
-    (effects (font (size 1 1) (thickness 0.15)))
+  (fp_text reference "REF**" (at 0 0) (layer "F.Fab")
+    (effects (font (size 0.5 0.5) (thickness 0.125)))
     (tstamp 31bf73f8-5ead-4618-bd11-6325766f2985)
   )
-  (fp_text value "SOIC8N" (at 0 -0.5) (layer "F.Fab") hide
-    (effects (font (size 1 1) (thickness 0.15)))
+  (fp_text value "SOIC8N" (at 0 -1) (layer "Eco1.User")
+    (effects (font (size 0.5 0.5) (thickness 0.125)))
     (tstamp 2851291f-bb9a-48a3-864b-324f9bb82d65)
   )
   (fp_line (start -2.5 2) (end 2.5 2) (layer "F.SilkS") (width 0.25) (tstamp 071b894b-1c6b-479b-a0ea-39e03282b25c))

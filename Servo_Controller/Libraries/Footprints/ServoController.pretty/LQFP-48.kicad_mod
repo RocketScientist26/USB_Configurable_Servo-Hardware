@@ -3,12 +3,12 @@
   (tedit 61DEE9E1)
   (tags "LQFP QFP LQFP48 LQFP-48")
   (attr smd)
-  (fp_text reference "REF**" (at 0 0) (layer "F.SilkS") hide
-    (effects (font (size 1 1) (thickness 0.15)))
+  (fp_text reference "REF**" (at 0 1.5) (layer "F.Fab")
+    (effects (font (size 0.5 0.5) (thickness 0.125)))
     (tstamp 3903491a-81fe-4388-bfed-3194999660b5)
   )
-  (fp_text value "LQFP-48" (at 0 6.25) (layer "F.Fab") hide
-    (effects (font (size 1 1) (thickness 0.15)))
+  (fp_text value "LQFP-48" (at 0 0) (layer "Eco1.User")
+    (effects (font (size 0.5 0.5) (thickness 0.125)))
     (tstamp 8548e026-66af-4296-90e9-67eb8298e6f4)
   )
   (fp_line (start 3.25 -3.65) (end 3.65 -3.65) (layer "F.SilkS") (width 0.25) (tstamp 22bf7020-c313-444e-b812-8d62167db083))
