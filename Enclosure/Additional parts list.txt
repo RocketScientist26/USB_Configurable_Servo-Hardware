@@ -1,0 +1,3 @@
+- 3Pcs, 6mm length, round head (Phillips), M2 screws
+- 3Pcs, 4mm depth, M2 screw mount insets
+- 1Pcs, 5mm length, 1.7mm diameter, transparent, PET or similar, 3D printer filament chunk (for LED hole, mount with soldering iron)
