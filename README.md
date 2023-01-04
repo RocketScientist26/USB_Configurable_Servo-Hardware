@@ -1,6 +1,6 @@
-# Configurable EVTOL Servo - Hardware
+# USB Configurable Servo - Hardware
 
-Open source servo motor brain, mainly intended for EVTOL aircraft research and development.
+Open source servo motor brain, intended for lab tests and development.
 - Built from vastly available cheap electronic components
 - Fully configurable via USB
 - Realtime monitoring from Qt app with graphs and controls
