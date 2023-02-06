@@ -1,0 +1,2 @@
+As of 6 february 2023 commit, JLCPCB does not provide for now assembly service.
+PCB renders itself are valid for previous commit, parts placements on them and BOM have not been changed in this commit.
